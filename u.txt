@@ -1,0 +1,9 @@
+<!DOCTYPE HTML>
+<HTML>
+<HEAD>
+<TITLE>MY PERSONAL WEBSITE</TITLE>
+</HEAD>
+<BODY>
+<IMG SRC="myimage.jpg">
+</BODY>
+</HTML>
